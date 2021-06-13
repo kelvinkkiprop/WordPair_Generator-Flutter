@@ -1,0 +1,12 @@
+//Create App
+flutter create wordpair_generator
+
+//Like NPM install for installing libraries 
+flutter pub get
+pub get
+flutter packages get 
+
+
+LIBRARIES
+1. Word Pair
+flutter pub add english_words
